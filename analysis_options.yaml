@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - prefer_relative_imports
+    - avoid_slow_async_io
+    - cancel_subscriptions
+    - close_sinks
+    - cascade_invocations
+    - use_raw_strings
+    - use_colored_box
+    - use_decorated_box
+    - use_is_even_rather_than_modulo
